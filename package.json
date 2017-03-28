@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/rob0t7/lhl-knex-demo",
   "author": "Robert Jackiewicz <rob@jackiewicz.ca>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  },
+  "scripts": {
+    "knex": "knex"
+  }
 }

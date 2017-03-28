@@ -1,0 +1,9 @@
+{
+  "name": "lhl-knex-demo",
+  "version": "1.0.0",
+  "description": "KnexJS Demo",
+  "main": "index.js",
+  "repository": "https://github.com/rob0t7/lhl-knex-demo",
+  "author": "Robert Jackiewicz <rob@jackiewicz.ca>",
+  "license": "MIT"
+}
